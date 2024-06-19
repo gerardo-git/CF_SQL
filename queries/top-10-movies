@@ -1,4 +1,4 @@
-'''this query selects the top 10 movies regarding their revenue
+-- this query selects the top 10 movies regarding their revenue
 
 SELECT 
 A.title, F.name AS genre,
