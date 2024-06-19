@@ -1,4 +1,4 @@
-'''this query generates a table which aggregates the count of customers and the total revenue per country
+-- this query generates a table which aggregates the count of customers and the total revenue per country
 
 SELECT F.country, COUNT(A.customer_id) AS customer_count, SUM(A.amount) AS total_revenue
 FROM payment A
