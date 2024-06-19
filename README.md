@@ -1,2 +1,3 @@
-# CF_SQL
-Contains scripts and data for a movie rental company and its analysis
+# Rockbuster SQL data analysis
+
+Contains scripts and data for a movie rental company and its analysis using PostgreSQL
