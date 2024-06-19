@@ -1,4 +1,4 @@
-
+-- this table joins movies with their corresponding revenue and orders them according to their revenue
 
 FROM film A
 LEFT JOIN inventory B ON A.film_id = B.film_id
